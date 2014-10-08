@@ -3,7 +3,7 @@ io_rs
 
 Inżyniera oprogramowania gr. 4
 
-# nagłowek pierwszego poziomu
+# nagłówek pierwszego poziomu
 
 Lista:
 
@@ -15,7 +15,7 @@ Lista:
   
 tekst **pogrubiony**
 
-## naglowek drugiego poziomu hue hue hue
+## nagłówek drugiego poziomu hue hue hue
 
 Link do mojego [Repozytorium](https://github.com/rsudul/io_rs)
 
