@@ -10,8 +10,8 @@ Lista:
 1. Ala
 2. ma
 3. kota
-  *burego
-  *w szare łaty
+  * burego
+  * w szare łaty
   
 tekst **pogrubiony**
 
