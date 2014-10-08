@@ -11,6 +11,7 @@ Lista:
 2. ma
 3. kota
   * burego
+  * głupiego
   * w szare łaty
   
 tekst **pogrubiony**
